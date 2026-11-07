@@ -21,5 +21,5 @@ Estudante de **Engenharia de Software (2º Semestre)** na UNICID com foco em **C
 ---
 
 ### 📬 Como me encontrar:
-- 💼 **LinkedIn:** [linkedin.com/in/jo%C3%A3o-pedro-maia-amaral-monteiro-007516171]
+- 💼 **LinkedIn:** [linkedin.com/in/joão-pedro-maia-amaral-monteiro-007516171]
 - 📧 **E-mail:** joaopedro15573@gmail.com
